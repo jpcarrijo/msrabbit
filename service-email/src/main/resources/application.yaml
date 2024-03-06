@@ -15,12 +15,12 @@ spring:
       enabled: true
       path: /h2-console
   rabbitmq:
-    addresses: amqps://lfbwagwa:Gy6IB-v_BhGnDfCW20_nxQg1GTzOPBZi@beaver.rmq.cloudamqp.com/lfbwagwa
+    addresses: amqps://********:Gy6IB-v_BhGnDfCW20_nxQg1GTzOPBZi@beaver.rmq.cloudamqp.com/********
   mail:
     host: smtp.gmail.com
     port: 587
-    username: wscarrijojp@gmail.com
-    password: "evhq yxyx rako qtua"
+    username: ws*******jp@gmail.com
+    password: "**** **** **** ****"
     properties:
       mail:
         smtp:
